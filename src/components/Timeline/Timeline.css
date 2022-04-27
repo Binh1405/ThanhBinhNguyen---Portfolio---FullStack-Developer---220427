@@ -1,0 +1,27 @@
+.timeline {
+  padding: 0 !important;
+}
+
+.timeline .timeline_header {
+  padding-top: 10px;
+}
+.timeline .MuiTimelineItem-root {
+  min-height: 0.5rem !important;
+}
+.timeline .MuiTimelineItem-missingOppositeContent:before {
+  display: none;
+}
+.timline .timeline_dot_header {
+  color: black;
+  background-color: var(--main-color) !important;
+  font-size: small !important;
+  padding: 5px !important;
+}
+.timeline .timeline_dot {
+  border-color: var(--main-color) !important;
+  padding: 2px !important;
+  width: 5px !important;
+}
+.timeline .seperator_padding {
+  padding-left: 13px !important;
+}
