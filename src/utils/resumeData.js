@@ -13,17 +13,17 @@ const resumeData = {
   socials: {
     Github: {
       link: "https://github.com/Binh1405",
-      text: "Can you debug my mistakes",
+      text: "My github",
       icon: <GitHubIcon />,
     },
     LinkedIn: {
       link: "https://www.linkedin.com/in/binh-nguyen-64796381/",
-      text: "Just wanna code my life",
+      text: "My linkedIn",
       icon: <LinkedInIcon />,
     },
   },
   about:
-    "Hey my name is Thanh Binh Nguyen (or u can call me Ballance Nguyen) and I am a fullstack web developer. My programming skills include ReactJS, NodeJS, HTML5, CSS3 and MongoDB. I love creating new web apps. For me, a good web app need to meet 3 aspects which are: highly functional, great design and user-friendly. \n\nIn the future, I want to make an app that increases people's awareness about climate change such as global warming, pollutions, greenhouse effect,..while giving advice, good practice and habits that we can do to prevent this, so that our next generations can live in a better world.",
+    "Hey my name is Thanh Binh Nguyen (or Ballance Nguyen) and I am a fullstack web developer. My programming skills include ReactJS, NodeJS, HTML5, CSS3 and MongoDB. I love creating new web apps. For me, a good web app need to meet 3 aspects which are: highly functional, great design and user-friendly. \n\nIn the future, I want to make an app that increases people's awareness about climate change such as global warming, pollutions, greenhouse effect,..while giving advice, good practice and habits that we can do to prevent this, so that our next generations can live in a better world.",
   experiences: [
     {
       title: "Work 1",
