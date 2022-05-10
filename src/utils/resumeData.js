@@ -122,6 +122,23 @@ const resumeData = {
         },
       ],
     },
+    {
+      tag: "React & Redux",
+      image: require("../assets/images/socialmedia.jpg"),
+      title: "Social Media",
+      description:
+        "This is my demo social media platform where current user can login, post content to their timeline, make comments and reactions in each post, make a friend request to others.",
+      links: [
+        {
+          link: "https://social-media-220511.netlify.app/login",
+          icon: <LocalGroceryStoreIcon />,
+        },
+        {
+          link: "https://github.com/Binh1405/CoderCom-220509.git",
+          icon: <GitHub />,
+        },
+      ],
+    },
   ],
 };
 export default resumeData;
